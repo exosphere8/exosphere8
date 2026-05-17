@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-### `data_engineer.init()` | `cybersecurity.enthusiast` | Kathmandu, NP
+### `data_engineer.init()` | `cybersecurity.enthusiast` | Wellington, NZ
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-336791?style=flat-square&logo=postgresql&logoColor=white)
