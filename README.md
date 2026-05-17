@@ -9,11 +9,10 @@
  ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-**`I Don't Specialize. I Converge.`**
+**The kind of developer you call when the problem stops being normal.**
 
-[![Visits](https://komarev.com/ghpvc/?username=exosphere8&style=flat-square&color=058a5e&label=PROFILE+VIEWS)](https://github.com/exosphere8)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Active-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/exosphere8)
+[![Profile Views](https://komarev.com/ghpvc/?username=exosphere8&style=flat-square&color=058a5e&label=PROFILE+VIEWS)](https://github.com/exosphere8)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Active-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Building-058a5e?style=flat-square)](#)
 
 </div>
@@ -22,28 +21,14 @@
 
 ```bash
 $ whoami
-> nightpool — Data Engineer · Security Analyst · Full Stack Dev · AI/ML Practitioner
-> Location  : Kathmandu, Nepal
-> Mission   : Building At The Intersection Of Data, Security, And Intelligence
-> Status    : 30-Day Data Engineering Sprint [ Day 06 / 30 ] ████████░░░░░░░░░░░░ 20%
+> Data Engineer. Security Analyst. Full Stack Developer. AI/ML Practitioner.
+> Operating from Kathmandu, Nepal.
+> Domain: Anywhere the problem is hard enough.
 ```
 
 ---
 
-## 🧠 Domain Matrix
-
-| Domain | Proficiency | Tools & Frameworks |
-|---|---|---|
-| **Data Engineering** | ████████████████░░░░ | PostgreSQL · ETL · psycopg2 · pgAdmin |
-| **Cybersecurity** | ███████████████░░░░░ | SIEM · Log Analysis · Threat Detection |
-| **Backend / Web** | ██████████████░░░░░░ | Django · Flask · RESTful API · PHP |
-| **ML / AI** | ████████████░░░░░░░░ | RAG · LLM Benchmarking · Scikit-learn |
-| **Systems** | ███████████░░░░░░░░░ | C · C++ · Linux · Bash · Docker |
-| **IoT** | █████████░░░░░░░░░░░ | Raspberry Pi · Sensor Pipelines |
-
----
-
-## ⚡ Arsenal
+## Stack
 
 **Languages**
 
@@ -61,13 +46,13 @@ $ whoami
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Data & AI**
+**Data & Intelligence**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-blueviolet?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_Eval-058a5e?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6e40c9?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Evaluation-058a5e?style=for-the-badge)
 
 **Infrastructure**
 
@@ -78,91 +63,66 @@ $ whoami
 
 ---
 
-## 🗂 Selected Works
+## Work
 
 <details>
-<summary><b>[ Log-Parser ]</b> — Security Log ETL Pipeline</summary>
+<summary><b>Log-Parser</b> — Security Log ETL Pipeline</summary>
 
 ```
-OOP-based security log classification and reporting system.
-Parses network, auth, system, and critical logs.
-Detects brute force attacks, process crashes, and internal threats.
-Pushes parsed data into a PostgreSQL database via a full ETL pipeline.
+OOP-based security log classification engine backed by PostgreSQL.
+Ingests raw log files. Classifies by type. Flags threats.
+Detects brute force, process crashes, internal network anomalies.
+Full ETL pipeline — Extract, Transform, Load.
+This is what SIEM pipelines look like before they get a UI.
 
-Stack   : Python · PostgreSQL · psycopg2 · OOP · ETL
-Status  : Active Development
+Stack  : Python · PostgreSQL · psycopg2 · OOP
 ```
 
-🔗 [View Repository](https://github.com/exosphere8/Log-Parser)
+[View Repository](https://github.com/exosphere8/Log-Parser)
 
 </details>
 
 <details>
-<summary><b>[ MetaEval ]</b> — LLM Metacognition Benchmark</summary>
+<summary><b>MetaEval</b> — LLM Metacognition Benchmark</summary>
 
 ```
-Google DeepMind × Kaggle AI Hackathon submission.
-Benchmarks LLM metacognition — confidence calibration,
-selective abstention, and help-seeking under uncertainty.
-Evaluated Claude Sonnet, Gemini 2.5 Flash, and Gemma 3 1B.
+Built for the Google DeepMind x Kaggle AI Hackathon.
+Measures how well LLMs know what they don't know.
+Confidence calibration. Selective abstention. Help-seeking under uncertainty.
+Models tested: Claude Sonnet, Gemini 2.5 Flash, Gemma 3 1B.
 
-Stack   : Python · Kaggle · kbench · LLM APIs
-Status  : Submitted
-```
-
-</details>
-
-<details>
-<summary><b>[ Movie Recommender ]</b> — Cosine Similarity Engine</summary>
-
-```
-Content-based movie recommendation engine.
-Uses cosine similarity on TF-IDF vectors.
-Interactive browser widget for real-time recommendations.
-
-Stack   : Python · Scikit-learn · JavaScript
-Status  : Complete
+Stack  : Python · Kaggle · kbench · LLM APIs
 ```
 
 </details>
 
 <details>
-<summary><b>[ IoT Sensor Dashboard ]</b> — Raspberry Pi Data Pipeline</summary>
+<summary><b>Movie Recommender</b> — Cosine Similarity Engine</summary>
 
 ```
-Real-time sensor data collection and analytics dashboard.
-Raspberry Pi-powered with live visualization.
+Content-based recommendation system using TF-IDF and cosine similarity.
+Interactive browser widget. No frameworks. No bloat.
 
-Stack   : Python · Raspberry Pi · IoT · Data Visualization
-Status  : Complete
+Stack  : Python · Scikit-learn · JavaScript
+```
+
+</details>
+
+<details>
+<summary><b>IoT Sensor Dashboard</b> — Raspberry Pi Pipeline</summary>
+
+```
+Real-time sensor data ingestion and visualization.
+Edge computing meets data engineering.
+
+Stack  : Python · Raspberry Pi · IoT
 ```
 
 </details>
 
 ---
 
-## 📡 Active Sprint
-
-```
-╔══════════════════════════════════════════════════════╗
-║         30-DAY PYTHON → DATA ENGINEERING SPRINT      ║
-╠══════════════════════════════════════════════════════╣
-║  Day 01 │ Python Fundamentals & File I/O        ✅  ║
-║  Day 02 │ Functions, Modules, Error Handling     ✅  ║
-║  Day 03 │ Data Structures & Algorithms           ✅  ║
-║  Day 04 │ File Parsing & Log Analysis            ✅  ║
-║  Day 05 │ OOP — Classes, Inheritance, MRO        ✅  ║
-║  Day 06 │ SQL & PostgreSQL ETL Pipeline          ✅  ║
-║  Day 07 │ SQL Joins, Views, Subqueries           ⏳  ║
-║  Day 08 │ Advanced SQL & Query Optimization      ░░  ║
-║  ...    │ ...                                    ░░  ║
-║  Day 30 │ Full Data Engineering Portfolio        🎯  ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
@@ -178,7 +138,7 @@ Status  : Complete
 <div align="center">
 
 ```
-[ The Identity Is The Work. The Work Is The Signal. ]
+The Identity Is The Work. The Work Is The Signal.
 ```
 
 </div>
