@@ -22,7 +22,7 @@
 ```bash
 $ whoami
 > Data Engineer. Security Analyst. Full Stack Developer. AI/ML Practitioner.
-> Operating from Kathmandu, Nepal.
+> Operating from Wellington, New-Zealand.
 > Domain: Anywhere the problem is hard enough.
 ```
 
