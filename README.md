@@ -50,8 +50,7 @@ $ whoami
 
 Security log pipelines, threat-intel ingestion, and the unglamorous parts of data
 engineering — scheduling, validation, data-quality gates, the things that decide
-whether a pipeline is trustworthy at 3am. Alongside that, analysis work on real
-datasets where the question mattered more than the model.
+whether a pipeline is trustworthy at 3am.
 
 **[→ Browse the repositories](https://github.com/exosphere8?tab=repositories)**
 
