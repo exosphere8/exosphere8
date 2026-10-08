@@ -18,6 +18,7 @@ based in Berlin, Germany · working anywhere the problem is hard enough
 |---|---|---|
 | **[siem-home-lab](https://github.com/exosphere8/siem-home-lab)** | A self-built SOC on Hyper-V (in progress). Wazuh SIEM across Linux, Windows, web and network sources, detection rules mapped to MITRE ATT&CK, a tested Python correlation toolkit, and written-up investigations. | Wazuh · Sigma · Python · Linux · Windows |
 | **[bookwatch](https://github.com/exosphere8/bookwatch)** | A polite, production-shaped price tracker. It has its own RFC 9309 robots.txt parser, run-tracked price history in SQLite with exact integer-cent money, change detection, and Slack/Discord alerts. Strictly typed, with 130 offline tests and CI on Linux, Windows and macOS. | Python · SQLite · GitHub Actions |
+| **[BlockThem](https://github.com/exosphere8/BlockThem)** | A lightweight Manifest V3 ad and tracker blocker for Chromium browsers. Blocks at the network layer with `declarativeNetRequest`, so it doesn't read your browsing traffic; hides leftover ad slots; shows a live per-tab blocked count; and pauses on any site in one click. | JavaScript · Chrome Extensions (MV3) |
 | **[postmortems](https://github.com/exosphere8/postmortems)** | Debugging write-ups. Not tutorials, but accounts of being wrong for a while and what the evidence was saying while I wasn't listening. | Writing |
 
 ## Stack
