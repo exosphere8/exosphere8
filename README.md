@@ -1,4 +1,14 @@
-# Hi, I'm Midnight Croissant
+<h1 align="center">Hi, I'm Midnight Croissant</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=058A5E&center=true&vCenter=true&width=600&height=40&lines=Data+engineer+where+data+meets+security;Log+pipelines+%C2%B7+detection+engineering;Web+data+collection+%C2%B7+analytics;Validation+%C2%B7+idempotency+%C2%B7+observability" alt="Data engineer where data meets security" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=exosphere8&style=flat-square&color=058a5e&label=profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/based_in-Berlin%2C_Germany-1F6FEB?style=flat-square" alt="Based in Berlin, Germany" />
+  <a href="https://github.com/exosphere8/postmortems"><img src="https://img.shields.io/badge/read-post--mortems-5C2D91?style=flat-square" alt="Read the post-mortems" /></a>
+</p>
 
 **Data engineer working where data meets security**: log pipelines, detection engineering, web data
 collection and analytics.
