@@ -60,10 +60,11 @@ based in Berlin, Germany · working anywhere the problem is hard enough
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## How I build
+## How I operate
 
-- **Fail loudly, never silently.** A pipeline that loads garbage is worse than one that stops.
-- **Idempotent by default.** Re-running a job should be boring.
+- **Fail loudly, never silently.** A crashed job costs a rerun. A silently skewed dataset costs every model, dashboard and decision built on top of it.
+- **Idempotent by default.** Same input, same output, however many times it runs. Reruns should be boring.
 - **Test the real thing.** Offline fixtures for fast feedback, real services for integration.
-- **Ship it reproducibly.** CI on every push, pinned dependencies and documentation someone else can follow.
+- **Ship it reproducibly.** CI on every push, pinned dependencies, and documentation someone else can follow.
+- **Write down the wrong turns.** Post-mortems keep the detours, because that is where most debugging time goes and where the lessons are.
 - **Defensive only.** Every security project here targets systems I own or am authorized to test.
